@@ -74,16 +74,43 @@
 
 <div align="center">
   
+**Языки и фреймворки**
+<br/>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Тестирование и автоматизация**
+<br/>
 ![Selenide](https://img.shields.io/badge/Selenide-2C3E50?style=for-the-badge&logo=selenium&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![SpecFlow](https://img.shields.io/badge/SpecFlow-3E5C9A?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Allure](https://img.shields.io/badge/Allure-1C8B9C?style=for-the-badge&logo=allure&logoColor=white)
+
+**CI/CD и инфраструктура**
+<br/>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=teamcity&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=teamcity&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Artifactory](https://img.shields.io/badge/Artifactory-5A2D82?style=for-the-badge&logo=jfrog&logoColor=white)
+
+**Мониторинг и очереди**
+<br/>
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![TIBCO](https://img.shields.io/badge/TIBCO-D7162A?style=for-the-badge&logo=tibco&logoColor=white)
+
+**Базы данных**
+<br/>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MS SQL](https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 </div>
 
