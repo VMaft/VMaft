@@ -111,7 +111,7 @@
   
   ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
   
-  ***Зелёных билдов, чистого кода и пусть проекты живут, и процветают!  ***
+  ***Зелёных билдов, чистого кода и пусть проекты живут, и процветают!***
 
 </div>
 
