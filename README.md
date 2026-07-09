@@ -37,13 +37,13 @@
 
 | Область | Технологии и инструменты |
 |---------|--------------------------|
-| ** Тестирование** | Функциональное, регрессионное, интеграционное, E2E, приёмочное (ПСИ/ИФТ), smoke |
-| ** Автоматизация** | Java, Selenide, JUnit5, SpecFlow (C#), Allure Report, API-тесты |
-| ** Инфраструктура** | Docker, Selenoid, TeamCity, GitLab CI, ArgoCD, Kubernetes |
-| ** Мониторинг и логи** | ElasticSearch, Kibana, RabbitMQ, Kafka, TIBCO |
-| ** Базы данных** | Oracle, PostgreSQL, SQL-скрипты для генерации данных |
-| ** Управление и документация** | Jira, TestIT, Confluence, тест-планы, чек-листы, code review |
-| ** Лидерство** | 1-to-1, ретроспективы, онбординг, собеседования, планирование нагрузки |
+| **Тестирование** | Функциональное, регрессионное, интеграционное, E2E, приёмочное (ПСИ/ИФТ), smoke |
+| **Автоматизация** | Java, Selenide, JUnit5, SpecFlow (C#), Allure Report, API-тесты |
+| **Инфраструктура** | Docker, Selenoid, TeamCity, GitLab CI, ArgoCD, Kubernetes |
+| **Мониторинг и логи** | ElasticSearch, Kibana, RabbitMQ, Kafka, TIBCO |
+| **Базы данных** | Oracle, PostgreSQL, SQL-скрипты для генерации данных |
+| **Управление и документация** | Jira, TestIT, Confluence, тест-планы, чек-листы, code review |
+| **Лидерство** | 1-to-1, ретроспективы, онбординг, собеседования, планирование нагрузки |
 
 </div>
 
