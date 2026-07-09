@@ -6,7 +6,10 @@
 
 Добро пожаловать в моё пространство. Здесь я совмещаю **глубокий инженерный подход** с **управленческим опытом** и **любовью к контейнерам** и **порядку**!!!
 
-А еще я собрал портфолиио. Доступно по ссылке: https://vadim-makarov.ru/
+
+А еще я собрал портфолио. Доступно по ссылке: https://vadim-makarov.ru/
+
+
 ---
 
 ### Опыт работы - от строчки кода до управления командой
@@ -46,7 +49,7 @@
 
 ---
 
-### Чем я увлекаюсь прямо сейчас
+### Чем я занят прямо сейчас
 
 #### Автоматизация на `Java` + `Selenide`
 >  Пишу лаконичные UI-тесты, которые не боятся динамических страниц.
@@ -59,7 +62,7 @@
 
 ---
 
-###  Флагманский проект: [The Internet HeroKuApp](https://github.com/VMaft/theInternetHeroKuAppTests)
+###  Личный проект: [The Internet HeroKuApp](https://github.com/VMaft/theInternetHeroKuAppTests)
 
 > Демонстрация **современного подхода** к автоматизации:
 > * ✅ Page Object + Selenide
@@ -123,6 +126,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vadimpsuty@gmail.com)
 [![Habr Career](https://img.shields.io/badge/Habr_Career-77A048?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/vadimqa)
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_link) --> <!-- Вставьте LinkedIn --> 
+Портфолио: https://vadim-makarov.ru/
 
 ---
 
